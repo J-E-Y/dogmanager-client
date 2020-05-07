@@ -1,44 +1,80 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Quickstart
 
-### `npm start`
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Install
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```
+$ npm(yarn) install
+```
 
-### `npm test`
+Start
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+$ npm(yarn) start
+```
 
-### `npm run build`
+## Stack
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+'React' for Client and 'Node.js' for Server were used.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Client
 
-### `npm run eject`
+React / Redux / Redux-saga / Redux-toolkit / material-ui / socket.io
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Server
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Node.js / express / typescript / typeORM / MySQL / mocha/chai / jwt / socket.io
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Deploy
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+AWS - S3, EC2, RDS
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Service Presentation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+#### User Login & Singup
+
+<img src="https://user-images.githubusercontent.com/47516835/81268460-ea57eb00-9082-11ea-8efc-a0e882a20735.gif" alt="Login1" width="50%"/><img src="https://user-images.githubusercontent.com/47516835/81268463-eaf08180-9082-11ea-807b-f3c4666f447f.gif" alt="Singup1" width="50%"/>
+
+#### Admin Event( Add & Edit & Cheak & Filter)
+
+<img src="https://user-images.githubusercontent.com/47516835/81268438-e62bcd80-9082-11ea-88f7-7b79cc18dc9e.gif" alt="event1" width="50%"/>
+
+<img src="https://user-images.githubusercontent.com/47516835/81268441-e7f59100-9082-11ea-8a08-93017542785f.gif" alt="event2" width="50%"/>
+
+
+<img src="https://user-images.githubusercontent.com/47516835/81268428-e3c97380-9082-11ea-9d3e-d279a50dcf5d.gif" alt="event3" width="50%"/>
+
+<img src="https://user-images.githubusercontent.com/47516835/81268444-e7f59100-9082-11ea-848e-7e49f0f2be71.gif" alt="event4" width="50%"/>
+
+
+
+#### Admin Coupon ( Add & Delete & Issue & Cheak(admin/users) )
+<img src="https://user-images.githubusercontent.com/47516835/81268413-de6c2900-9082-11ea-920e-b189c6a3eac1.gif" alt="coupon1" width="50%"/><img src="https://user-images.githubusercontent.com/47516835/81268424-e2984680-9082-11ea-872f-90d4107aa843.gif" alt="coupon2" width="50%"/>
+
+<img src="https://user-images.githubusercontent.com/47516835/81292536-bb537080-90a6-11ea-89ed-943b25541ad5.gif" alt="coupon3" width="50%"/>
+
+<img src="https://user-images.githubusercontent.com/47516835/81292589-d0c89a80-90a6-11ea-8aa6-61de4fd608d9.gif" alt="coupon4" width="50%"/><img src="https://user-images.githubusercontent.com/47516835/81292644-eccc3c00-90a6-11ea-87b0-d37627ff2c46.gif" alt="coupon4" width="50%"/>
+
+
+#### User Chat
+
+<img src="https://user-images.githubusercontent.com/47516835/81268450-e926be00-9082-11ea-8de9-59dca66a1d89.gif" alt="chat" width="50%"/>
+
+#### User Like
+
+<img src="https://user-images.githubusercontent.com/47516835/81268454-e926be00-9082-11ea-9eef-345c81cbda47.gif" alt="like" width="50%"/>
+
+
+
+
+
+
