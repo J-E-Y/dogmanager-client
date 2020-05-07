@@ -21,9 +21,9 @@ $ npm(yarn) start
 
 ---
 
-'React' for Client and 'Node.js' for Server were used.
+**React** for Client and **Node.js** for Server were used.
 
-#### Client
+#### Client 
 
 React / Redux / Redux-saga / Redux-toolkit / material-ui / socket.io
 
@@ -46,15 +46,10 @@ AWS - S3, EC2, RDS
 
 #### Admin Event( Add & Edit & Cheak & Filter)
 
-<img src="https://user-images.githubusercontent.com/47516835/81268438-e62bcd80-9082-11ea-88f7-7b79cc18dc9e.gif" alt="event1" width="50%"/>
-
-<img src="https://user-images.githubusercontent.com/47516835/81268441-e7f59100-9082-11ea-8a08-93017542785f.gif" alt="event2" width="50%"/>
+<img src="https://user-images.githubusercontent.com/47516835/81268438-e62bcd80-9082-11ea-88f7-7b79cc18dc9e.gif" alt="event1" width="50%"/><img src="https://user-images.githubusercontent.com/47516835/81268441-e7f59100-9082-11ea-8a08-93017542785f.gif" alt="event2" width="50%"/>
 
 
-<img src="https://user-images.githubusercontent.com/47516835/81268428-e3c97380-9082-11ea-9d3e-d279a50dcf5d.gif" alt="event3" width="50%"/>
-
-<img src="https://user-images.githubusercontent.com/47516835/81268444-e7f59100-9082-11ea-848e-7e49f0f2be71.gif" alt="event4" width="50%"/>
-
+<img src="https://user-images.githubusercontent.com/47516835/81268428-e3c97380-9082-11ea-9d3e-d279a50dcf5d.gif" alt="event3" width="50%"/><img src="https://user-images.githubusercontent.com/47516835/81268444-e7f59100-9082-11ea-848e-7e49f0f2be71.gif" alt="event4" width="50%"/>
 
 
 #### Admin Coupon ( Add & Delete & Issue & Cheak(admin/users) )
